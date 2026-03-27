@@ -1,0 +1,39 @@
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Dependencies (если появится Node.js)
+node_modules/
+.pnp
+.pnp.js
+
+# Build output (если появится сборщик)
+dist/
+build/
+.cache/
+
+# Temporary files
+*.tmp
+*.temp
